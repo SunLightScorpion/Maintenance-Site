@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+    color: orangered;
+}
+html{
+    scroll-behavior: smooth;
+    background-color: #181a1b;
+    color: white;
+}
